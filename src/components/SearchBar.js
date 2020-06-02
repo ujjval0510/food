@@ -30,7 +30,8 @@ const styles = StyleSheet.create({
         marginTop: 10,
         flexDirection: 'row',
         padding: 3,
-        borderRadius: 5
+        borderRadius: 5,
+        marginBottom : 10
     },
 
     inputStyle: {
