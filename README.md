@@ -1,6 +1,6 @@
 # food
 
-this is the just example (using third party api just for example):
+this is the just example for getting food related data using third party api to understand the concept of RN:
 - API calling using axios
 - How to manage FlatList in react native
 - How to use state, useEffect and Hooks to manage app
